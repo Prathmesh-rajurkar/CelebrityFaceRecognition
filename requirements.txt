@@ -1,3 +1,7 @@
-PyWavelets==0.5.2
-opencv-python==3.4.3.18
-seaborn==0.8.1
+numpy
+scikit-learn
+pandas
+matplotlib
+PyWavelets
+opencv-python
+seaborn
